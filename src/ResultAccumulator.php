@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Qase\PHPUnit;
 
 use Qase\PhpClientUtils\Config;
